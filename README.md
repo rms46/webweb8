@@ -56,10 +56,6 @@
 
 <img src="pictures/gimp-ruby-jekyll-14.jpg"  width="800">
 
-## (15) = = =
-
-<img src="pictures/gimp-ruby-jekyll-15.jpg"  width="800">
-
 ## (17) = = =
 
 <img src="pictures/gimp-ruby-jekyll-17.jpg"  width="800">
