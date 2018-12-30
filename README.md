@@ -20,6 +20,26 @@
 
 <img src="pictures/gimp-ruby-jekyll-05.jpg"  width="800">
 
+## (06) = = =
+
+<img src="pictures/gimp-ruby-jekyll-06.jpg"  width="800">
+
+## (07) = = =
+
+<img src="pictures/gimp-ruby-jekyll-07.jpg"  width="800">
+
+## (08) = = =
+
+<img src="pictures/gimp-ruby-jekyll-08.jpg"  width="800">
+
+## (09) = = =
+
+<img src="pictures/gimp-ruby-jekyll-09.jpg"  width="800">
+
+## (10) = = =
+
+<img src="pictures/gimp-ruby-jekyll-10.jpg"  width="800">
+
 
 
 ## = = = = = = [NEXT: ](https://rms46.github.io/webweb6/) = = = = = =
