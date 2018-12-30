@@ -60,10 +60,6 @@
 
 <img src="pictures/gimp-ruby-jekyll-15.jpg"  width="800">
 
-## (16) = = =
-
-<img src="pictures/gimp-ruby-jekyll-16.jpg"  width="800">
-
 ## (17) = = =
 
 <img src="pictures/gimp-ruby-jekyll-17.jpg"  width="800">
