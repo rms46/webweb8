@@ -80,4 +80,4 @@
 
 <img src="pictures/gimp-ruby-jekyll-22.jpg"  width="800">
 
-## = = = = = = [NEXT: ](https://rms46.github.io/webweb6/) = = = = = =
+## = = = = = = [NEXT: GitHub Pages 2 Jekyll ](https://rms46.github.io/webweb9/) = = = = = =
